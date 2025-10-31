@@ -1,16 +1,41 @@
-# React + Vite
+# React + Vite Starter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fast and modern **React** setup built with **Vite**, offering an optimized development environment with Hot Module Replacement (HMR) and ESLint integration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Overview
 
-## React Compiler
+This project serves as a boilerplate for quickly starting new React applications using **Vite**.  
+It includes essential configurations for development speed, code quality, and scalability.  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Vite’s lightning-fast build system and React’s component-driven architecture make this setup ideal for both small projects and production-scale applications.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧩 Features
+
+- ⚡️ **Vite** for ultra-fast development and optimized builds  
+- ⚛️ **React 18** with Fast Refresh  
+- 🧠 **ESLint** configured for clean, consistent code  
+- 🔥 **Hot Module Replacement (HMR)** for instant updates  
+- 🧱 Easy to extend with TypeScript, TailwindCSS, or other libraries  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React 18, Vite  
+- **Tooling:** ESLint, Babel or SWC (via `@vitejs/plugin-react` or `@vitejs/plugin-react-swc`)  
+- **Optional Add-ons:** TypeScript, Prettier, TailwindCSS  
+
+---
+
+## 🧠 Getting Started
+
+Clone this repository and install dependencies:
+
+```bash
+git clone https://github.com/WebWolf77/react-vite-app.git
+cd react-vite-app
+npm install
