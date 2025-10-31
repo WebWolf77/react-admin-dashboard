@@ -1,41 +1,53 @@
-# React + Vite Starter
+# React Admin Dashboard
 
-A fast and modern **React** setup built with **Vite**, offering an optimized development environment with Hot Module Replacement (HMR) and ESLint integration.
+A responsive and modern **Admin Dashboard** built with **React**, designed for managing and visualizing data efficiently.  
+This project demonstrates a professional dashboard UI with dynamic charts, tables, and interactive components suitable for real-world web applications.
 
 ---
 
 ## 🚀 Overview
 
-This project serves as a boilerplate for quickly starting new React applications using **Vite**.  
-It includes essential configurations for development speed, code quality, and scalability.  
-
-Vite’s lightning-fast build system and React’s component-driven architecture make this setup ideal for both small projects and production-scale applications.
+The **React Admin Dashboard** provides an intuitive interface for monitoring analytics, managing users, and controlling key application data.  
+It’s built with reusable React components and a clean, responsive design optimized for performance.
 
 ---
 
 ## 🧩 Features
 
-- ⚡️ **Vite** for ultra-fast development and optimized builds  
-- ⚛️ **React 18** with Fast Refresh  
-- 🧠 **ESLint** configured for clean, consistent code  
-- 🔥 **Hot Module Replacement (HMR)** for instant updates  
-- 🧱 Easy to extend with TypeScript, TailwindCSS, or other libraries  
+- Responsive and modern admin dashboard layout  
+- Sidebar navigation with active state highlighting  
+- Dark/Light mode toggle for better user experience  
+- Interactive data visualizations using charts and graphs  
+- Dynamic tables with sorting and filtering capabilities  
+- Modular component-based architecture  
+- Fully responsive for desktop, tablet, and mobile devices  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React 18, Vite  
-- **Tooling:** ESLint, Babel or SWC (via `@vitejs/plugin-react` or `@vitejs/plugin-react-swc`)  
-- **Optional Add-ons:** TypeScript, Prettier, TailwindCSS  
+**Frontend:**  
+- React 18  
+- React Router DOM  
+- TailwindCSS / CSS Modules  
+- Recharts / Chart.js (for data visualization)  
+- React Icons / Material UI (for UI components)  
+
+**State Management:**  
+- Context API or Redux (depending on implementation)  
+
+**Other Tools:**  
+- Vite or Create React App (for setup)  
+- ESLint & Prettier (for clean code)  
+- Git & GitHub (for version control)
 
 ---
 
 ## 🧠 Getting Started
 
-Clone this repository and install dependencies:
+Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/WebWolf77/react-vite-app.git
-cd react-vite-app
+git clone https://github.com/WebWolf77/react-admin-dashboard.git
+cd react-admin-dashboard
 npm install
