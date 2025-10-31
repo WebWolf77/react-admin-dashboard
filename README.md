@@ -21,7 +21,7 @@ It’s built with reusable React components and a clean, responsive design optim
 - Dynamic tables with sorting and filtering capabilities  
 - Modular component-based architecture  
 - Fully responsive for desktop, tablet, and mobile devices  
-
+- Deploy on Vercel  
 ---
 
 ## 🛠️ Tech Stack
